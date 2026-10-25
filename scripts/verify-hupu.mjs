@@ -1,0 +1,11 @@
+import { build } from 'esbuild';
+import { spawn } from 'node:child_process';
+import { createRequire } from 'node:module';
+import path from 'node:path';
+const require=createRequire(import.meta.url);
+const output=path.resolve('artifacts/hupu-validation.cjs');
+await build({entryPoints:['scripts/hupu-validation.ts'],outfile:output,bundle:true,platform:'node',format:'cjs',external:['electron'],target:'node22'});
+const env={...process.env};delete env.ELECTRON_RUN_AS_NODE;
+if(process.argv.includes('--live-qwen'))env.WATCHMATE_LIVE_QWEN='1';else delete env.WATCHMATE_LIVE_QWEN;
+const child=spawn(require('electron'),[output],{cwd:process.cwd(),env,stdio:'inherit',windowsHide:true});
+child.on('exit',code=>{process.exitCode=code??1;});

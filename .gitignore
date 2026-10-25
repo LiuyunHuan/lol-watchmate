@@ -1,0 +1,26 @@
+node_modules/
+dist/
+release/
+.env
+.env.*
+!.env.example
+data/
+*.log
+test-results/
+playwright-report/
+.smoke-data/
+artifacts/
+public/ocr/
+config.local.json
+*.tsbuildinfo
+# Riot 英雄图片不进公共仓库；构建/打包前用 npm run assets:* 从官方接口生成
+public/champions/*.png
+public/champions/*.jpg
+public/champions/variants/*.png
+*.zip
+watchmate-diagnostics.json
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+coverage/

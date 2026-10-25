@@ -1,0 +1,420 @@
+{
+  "version": "16.21",
+  "source": "https://communitydragon.org/documentation/assets",
+  "entries": [
+    {
+      "championId": "Lulu",
+      "file": "Lulu-lulu_circle_0.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/lulu/hud/lulu_circle_0.png",
+      "sha256": "6b505ec8d5e5bb3ca7063bbddfebabf60084aa42cbf85bfbed6c3fabc7796106"
+    },
+    {
+      "championId": "Lulu",
+      "file": "Lulu-lulu_circle_1.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/lulu/hud/lulu_circle_1.png",
+      "sha256": "aa58a0fa51d6710378988f582b59ad01fe7169d9ebb08f22ebb717c9bdb1b7d5"
+    },
+    {
+      "championId": "Lulu",
+      "file": "Lulu-lulu_circle_14.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/lulu/hud/lulu_circle_14.png",
+      "sha256": "35c9b0bd9092a40c4d22d0b7ceb465757724bf23cf2be98d2c85a9083e89d4d2"
+    },
+    {
+      "championId": "Lulu",
+      "file": "Lulu-lulu_circle_15.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/lulu/hud/lulu_circle_15.png",
+      "sha256": "f8437a2bb70e02d465076f86e40f2e3acd1d46bfe3ecde74c0d601df1934be96"
+    },
+    {
+      "championId": "Lulu",
+      "file": "Lulu-lulu_circle_2.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/lulu/hud/lulu_circle_2.png",
+      "sha256": "4231644e185ee2e07d001366a0ba7145465eecc082f3f4720430e6a6e00d19b4"
+    },
+    {
+      "championId": "Lulu",
+      "file": "Lulu-lulu_circle_26.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/lulu/hud/lulu_circle_26.png",
+      "sha256": "b56ed95d3f6771a6fcfa4fc315a9d98bbb3be1c77fb1a43b137895f2e54705da"
+    },
+    {
+      "championId": "Lulu",
+      "file": "Lulu-lulu_circle_27.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/lulu/hud/lulu_circle_27.png",
+      "sha256": "9df8f79c926a9826d2eeb432d1856bae14f03bea362ac41be5781f652814c69c"
+    },
+    {
+      "championId": "Lulu",
+      "file": "Lulu-lulu_circle_3.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/lulu/hud/lulu_circle_3.png",
+      "sha256": "787b5aa826f5c6dbdcd2131b9b2983a19326c4b5f5a7c070996bd05c2e7c1e00"
+    },
+    {
+      "championId": "Lulu",
+      "file": "Lulu-lulu_circle_37.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/lulu/hud/lulu_circle_37.png",
+      "sha256": "493174b5e77f067e18778724201d9d24806895a37fa0ad94b94af0be30102b9b"
+    },
+    {
+      "championId": "Lulu",
+      "file": "Lulu-lulu_circle_4.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/lulu/hud/lulu_circle_4.png",
+      "sha256": "136cc7275c8be0297f54304f6b4f7a694e70c3cf6789f6c54cd2de5c326c09f3"
+    },
+    {
+      "championId": "Lulu",
+      "file": "Lulu-lulu_circle_46.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/lulu/hud/lulu_circle_46.png",
+      "sha256": "de9c405e587d1f20f1c1eb910120be4745c6cebc3f87d0309519e4e0285a60fa"
+    },
+    {
+      "championId": "Lulu",
+      "file": "Lulu-lulu_circle_5.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/lulu/hud/lulu_circle_5.png",
+      "sha256": "187907dd856df2c71e2610ccda8e4d46cb618d8f5bd43ffb0d0365b69cd3d4ba"
+    },
+    {
+      "championId": "Lulu",
+      "file": "Lulu-lulu_circle_55.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/lulu/hud/lulu_circle_55.png",
+      "sha256": "caebd94ff2198d042354cf61fbf9564268b73122e7ff0c62f466e0bb4c5016de"
+    },
+    {
+      "championId": "Lulu",
+      "file": "Lulu-lulu_circle_56.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/lulu/hud/lulu_circle_56.png",
+      "sha256": "07ffb5bb3a2e4be7ecd3fdd51083aded15d5bb658947751807021321d9e2fb1c"
+    },
+    {
+      "championId": "Lulu",
+      "file": "Lulu-lulu_circle_6.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/lulu/hud/lulu_circle_6.png",
+      "sha256": "67f284c24f2cd2d2629831285b6375ad51f6d97f97b4a8dd18bf65d667472b6f"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_0.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_0.png",
+      "sha256": "6dfb0fd279a93bdcf21ce821cb4aa5af75184e7d841751f602b08606c690e0c8"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_1.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_1.png",
+      "sha256": "bc5765fa19ac1d3c36669ac14cab0a5383941303080fac001a0e784aa9414c4b"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_17.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_17.png",
+      "sha256": "ed45319ed92809ba57fd59cf1570377215746dff54e0dd68e64dce3317b6ba89"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_18.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_18.png",
+      "sha256": "dea8c60df2565b5640801e7f8b9fdbfa0c42d29c71690ae634e43b56a1e2721a"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_2.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_2.png",
+      "sha256": "20b3931b1527b079d40a6f4d8c8134610f1231eed8febebe2939c48a1177ebdc"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_26.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_26.png",
+      "sha256": "bde2835955a6c220cf04a701de43a5cdf918edc2863874b25870d66a3c9d975d"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_3.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_3.png",
+      "sha256": "0213b6ca6a944a56a654c2f5b60e8f7be117c582c95fd7c7f7d3366cb47bd97f"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_33.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_33.png",
+      "sha256": "1e8714aff9320e7d4329058b33743d10848a91ee280cc184782dc6e7b6b155e0"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_4.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_4.png",
+      "sha256": "df3184b02006806c112e359aa2e2f2b3415413f823ac27459d04f27b716a1ad9"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_42.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_42.png",
+      "sha256": "1b15d99a328791f464366c6b4590ced30a6f3749b66c4f369cc60f9b521fb745"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_48.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_48.png",
+      "sha256": "f5d7d097b281c061bc844d479d4cc6012fe2dc983dedff3d60c56af4a6ea63a4"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_5.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_5.png",
+      "sha256": "39b0cb1106f8cfab961f88e76ccce8da6a43c0a5e1bda20cd5bc073a52c81b0f"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_6.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_6.png",
+      "sha256": "9d16ae44ca69eb83dc7d987539d564466bc1603379dbed9b75ac732a44e2eaad"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_7.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_7.png",
+      "sha256": "e7ab500e7a1c7018815265158e1d62d7f2e2e469a061e7d543c440aefe3d8ba2"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_8.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_8.png",
+      "sha256": "90c5cf13544effeb192bdaa57b0bedbeb36d3c1a8597f687e5e49a77802d10be"
+    },
+    {
+      "championId": "Renekton",
+      "file": "Renekton-renekton_circle_9.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/renekton/hud/renekton_circle_9.png",
+      "sha256": "22084d5b461e30c2214338981e650eecdc0e42a6cdc156f349dc561843918716"
+    },
+    {
+      "championId": "Ryze",
+      "file": "Ryze-ryze_circle_0.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/ryze/hud/ryze_circle_0.png",
+      "sha256": "bd366603ee73ee004803cb0d704ce950c8843fda91dec431c0f7a71f8bd3dd8a"
+    },
+    {
+      "championId": "Ryze",
+      "file": "Ryze-ryze_circle_1.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/ryze/hud/ryze_circle_1.png",
+      "sha256": "1f977f8e62e8ee126b88e5b61997a466a394fdb9f4d49cc180007a1c692c8f5b"
+    },
+    {
+      "championId": "Ryze",
+      "file": "Ryze-ryze_circle_10.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/ryze/hud/ryze_circle_10.png",
+      "sha256": "8ac8c20cd2625d327d26cfb4aa0093dd9b8227acca037fdad1d25bbd2801e25c"
+    },
+    {
+      "championId": "Ryze",
+      "file": "Ryze-ryze_circle_11.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/ryze/hud/ryze_circle_11.png",
+      "sha256": "8f80245958a7bbbf115db0aa69bf0ed859e32511697630a3d9431cd5fed3dde1"
+    },
+    {
+      "championId": "Ryze",
+      "file": "Ryze-ryze_circle_13.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/ryze/hud/ryze_circle_13.png",
+      "sha256": "5ea81f76f5a0937f9643f44cf132551707c9983e8a0323d02a52f762203ba343"
+    },
+    {
+      "championId": "Ryze",
+      "file": "Ryze-ryze_circle_2.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/ryze/hud/ryze_circle_2.png",
+      "sha256": "efbed686500b3c117c64333989fe46a91114dafd735ca48379730e9ff0b5ae11"
+    },
+    {
+      "championId": "Ryze",
+      "file": "Ryze-ryze_circle_20.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/ryze/hud/ryze_circle_20.png",
+      "sha256": "679719674f87772012a5ba7c7609ce134d6f79b6f062d6ccf5f58854da37e05f"
+    },
+    {
+      "championId": "Ryze",
+      "file": "Ryze-ryze_circle_29.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/ryze/hud/ryze_circle_29.png",
+      "sha256": "8f518582893934ad14c6a861a0074c3734bfcaef4e794f3fd93205be96e92ede"
+    },
+    {
+      "championId": "Ryze",
+      "file": "Ryze-ryze_circle_3.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/ryze/hud/ryze_circle_3.png",
+      "sha256": "7bf468e582729660d018b775967690e163e4057d2fa1684ef7455a15d3e9f831"
+    },
+    {
+      "championId": "Ryze",
+      "file": "Ryze-ryze_circle_4.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/ryze/hud/ryze_circle_4.png",
+      "sha256": "49ef172fef97330995fd7e8d80457b7b75c62a7d6cf3eea58a015a211b70cb7e"
+    },
+    {
+      "championId": "Ryze",
+      "file": "Ryze-ryze_circle_5.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/ryze/hud/ryze_circle_5.png",
+      "sha256": "ee414187f5557342b8d1b07b5fbfb9ba8f6162b1eedf2adff170aa7119ad83e0"
+    },
+    {
+      "championId": "Ryze",
+      "file": "Ryze-ryze_circle_6.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/ryze/hud/ryze_circle_6.png",
+      "sha256": "c4a07e5f32d32775491db2cffa8dff5c0c7eec26aecf8f4f0b70619e9a739703"
+    },
+    {
+      "championId": "Ryze",
+      "file": "Ryze-ryze_circle_7.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/ryze/hud/ryze_circle_7.png",
+      "sha256": "b1d76bd319e4332df30a912b8d80eead9e2b85bb91fb05d3916c559727211bd1"
+    },
+    {
+      "championId": "Ryze",
+      "file": "Ryze-ryze_circle_8.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/ryze/hud/ryze_circle_8.png",
+      "sha256": "41d9d2ff9a94f34720c9da1a9bfa5f72970b804aeabf5ee6b8c9d21781d569d4"
+    },
+    {
+      "championId": "Ryze",
+      "file": "Ryze-ryze_circle_9.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/ryze/hud/ryze_circle_9.png",
+      "sha256": "c8f6c1171e0bc3d6a82be2082d7cd4e27b66be7fd1ac1687a90bb0b508e59d16"
+    },
+    {
+      "championId": "Syndra",
+      "file": "Syndra-syndra_circle_0.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/syndra/hud/syndra_circle_0.png",
+      "sha256": "9c0c49b0a3047d64747ca560a322796d2e468c3f5ab998bdb3cf0803b5f57651"
+    },
+    {
+      "championId": "Syndra",
+      "file": "Syndra-syndra_circle_1.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/syndra/hud/syndra_circle_1.png",
+      "sha256": "c4c401a937b8dfd82445e2ad27fd1c853a1797c0db73fcd28ffe61de25177900"
+    },
+    {
+      "championId": "Syndra",
+      "file": "Syndra-syndra_circle_16.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/syndra/hud/syndra_circle_16.png",
+      "sha256": "30a4cab628819c8dcb9cfbbb9ac6aefb1b7571d1bfac382bb18103d46f8d1ad9"
+    },
+    {
+      "championId": "Syndra",
+      "file": "Syndra-syndra_circle_2.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/syndra/hud/syndra_circle_2.png",
+      "sha256": "31cd1a708c0d656a8ad2fd33201f009a3d8f3f5b295cac27eb1926b7bb9418e7"
+    },
+    {
+      "championId": "Syndra",
+      "file": "Syndra-syndra_circle_25.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/syndra/hud/syndra_circle_25.png",
+      "sha256": "309e2d64fe82bc63c93f405e8a7d91bcd800588929a1d379e8164077d2d08cd2"
+    },
+    {
+      "championId": "Syndra",
+      "file": "Syndra-syndra_circle_3.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/syndra/hud/syndra_circle_3.png",
+      "sha256": "594077f6c0a615133206c8c12daf644ff25fc6d93d6e046cf4884ed8c1d8124b"
+    },
+    {
+      "championId": "Syndra",
+      "file": "Syndra-syndra_circle_34.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/syndra/hud/syndra_circle_34.png",
+      "sha256": "0b9917f663e84158539db523dfcfa5e85bc75e1615b2ca5f0a1f58190c3df767"
+    },
+    {
+      "championId": "Syndra",
+      "file": "Syndra-syndra_circle_4.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/syndra/hud/syndra_circle_4.png",
+      "sha256": "e2bd2dfabbed664c357dec2e5a6fbab8934d98cfe902302628df2f8e2d690198"
+    },
+    {
+      "championId": "Syndra",
+      "file": "Syndra-syndra_circle_44.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/syndra/hud/syndra_circle_44.png",
+      "sha256": "345ec2f24bf8ed82c9e0526ead1a9b9d6a5658427357048a36810a9d40c63e37"
+    },
+    {
+      "championId": "Syndra",
+      "file": "Syndra-syndra_circle_5.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/syndra/hud/syndra_circle_5.png",
+      "sha256": "b09e9fd87aaa7fc335d14aade493b00675d7891d0b84389b8e3a159851c8a077"
+    },
+    {
+      "championId": "Syndra",
+      "file": "Syndra-syndra_circle_54.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/syndra/hud/syndra_circle_54.png",
+      "sha256": "c113203ac1fba06a3af65dd62c55a98873af401a9bd47ab413f8a8c5bb95e7ba"
+    },
+    {
+      "championId": "Syndra",
+      "file": "Syndra-syndra_circle_6.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/syndra/hud/syndra_circle_6.png",
+      "sha256": "8edc05112c62613017518bceef150ea6cfaced659a452673af3f75db0e7599ba"
+    },
+    {
+      "championId": "Syndra",
+      "file": "Syndra-syndra_circle_65.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/syndra/hud/syndra_circle_65.png",
+      "sha256": "3045d55e3bb156fdeedb2ac44d4f7c8dc32491f6bb527be6873719b8430d42fd"
+    },
+    {
+      "championId": "Syndra",
+      "file": "Syndra-syndra_circle_7.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/syndra/hud/syndra_circle_7.png",
+      "sha256": "ef7be127e0423b35f2e27472b9eec01b36e34b81b60b10802c243092d181b57d"
+    },
+    {
+      "championId": "Viktor",
+      "file": "Viktor-viktor_circle_0.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/viktor/hud/viktor_circle_0.png",
+      "sha256": "cc87add408fcce036c515a16102f5eee886fd02cfcf356d64b712814d13bed1f"
+    },
+    {
+      "championId": "Viktor",
+      "file": "Viktor-viktor_circle_1.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/viktor/hud/viktor_circle_1.png",
+      "sha256": "15e9816bd0204ec2f9d19a9b6a41ccfabd02537ec5da7a1f014e7d3af2ec2ec4"
+    },
+    {
+      "championId": "Viktor",
+      "file": "Viktor-viktor_circle_14.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/viktor/hud/viktor_circle_14.png",
+      "sha256": "f0ecf770d3aa3882b8dcb6033d91c9af48fd78f125bbdc044f9d6a92a1bd6813"
+    },
+    {
+      "championId": "Viktor",
+      "file": "Viktor-viktor_circle_2.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/viktor/hud/viktor_circle_2.png",
+      "sha256": "0755558fbdf231c9e68d99165faf8b9826af632baaaa41a7c464418f348b4769"
+    },
+    {
+      "championId": "Viktor",
+      "file": "Viktor-viktor_circle_24.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/viktor/hud/viktor_circle_24.png",
+      "sha256": "2601c7fabd1f38db3b4a0379a5ac54523f7aac079fd18fcaa45e2c9f48a8b7ae"
+    },
+    {
+      "championId": "Viktor",
+      "file": "Viktor-viktor_circle_25.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/viktor/hud/viktor_circle_25.png",
+      "sha256": "61ce01679713546b78d7495ee586579513ee22936d5b702c524e5c2dcd58a424"
+    },
+    {
+      "championId": "Viktor",
+      "file": "Viktor-viktor_circle_3.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/viktor/hud/viktor_circle_3.png",
+      "sha256": "10b5ea66ccf7d059d2e5fedb5b26d2adf2119272e55d80d6820d5f5d396abdf6"
+    },
+    {
+      "championId": "Viktor",
+      "file": "Viktor-viktor_circle_4.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/viktor/hud/viktor_circle_4.png",
+      "sha256": "6a23ebdf9e3fd9ed24341099fb5e2f6e3f6c11d52d28cc4e00d1c044b0eedebb"
+    },
+    {
+      "championId": "Viktor",
+      "file": "Viktor-viktor_circle_5.png",
+      "source": "https://raw.communitydragon.org/16.21/game/assets/characters/viktor/hud/viktor_circle_5.png",
+      "sha256": "44793cbfdca9313817bbb9aa5913d302e80a8ceda5c3660ba6a486ef6bb1f2bb"
+    }
+  ]
+}

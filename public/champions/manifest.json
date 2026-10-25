@@ -1,0 +1,1044 @@
+{
+  "version": "16.21.1",
+  "source": "https://developer.riotgames.com/docs/lol#data-dragon",
+  "champions": [
+    {
+      "id": "Aatrox",
+      "key": "266",
+      "name": "暗裔剑魔",
+      "title": "亚托克斯"
+    },
+    {
+      "id": "Ahri",
+      "key": "103",
+      "name": "九尾妖狐",
+      "title": "阿狸"
+    },
+    {
+      "id": "Akali",
+      "key": "84",
+      "name": "离群之刺",
+      "title": "阿卡丽"
+    },
+    {
+      "id": "Akshan",
+      "key": "166",
+      "name": "影哨",
+      "title": "阿克尚"
+    },
+    {
+      "id": "Alistar",
+      "key": "12",
+      "name": "牛头酋长",
+      "title": "阿利斯塔"
+    },
+    {
+      "id": "Ambessa",
+      "key": "799",
+      "name": "铁血狼母",
+      "title": "安蓓萨"
+    },
+    {
+      "id": "Amumu",
+      "key": "32",
+      "name": "殇之木乃伊",
+      "title": "阿木木"
+    },
+    {
+      "id": "Anivia",
+      "key": "34",
+      "name": "冰晶凤凰",
+      "title": "艾尼维亚"
+    },
+    {
+      "id": "Annie",
+      "key": "1",
+      "name": "黑暗之女",
+      "title": "安妮"
+    },
+    {
+      "id": "Aphelios",
+      "key": "523",
+      "name": "残月之肃",
+      "title": "厄斐琉斯"
+    },
+    {
+      "id": "Ashe",
+      "key": "22",
+      "name": "寒冰射手",
+      "title": "艾希"
+    },
+    {
+      "id": "AurelionSol",
+      "key": "136",
+      "name": "铸星龙王",
+      "title": "奥瑞利安·索尔"
+    },
+    {
+      "id": "Aurora",
+      "key": "893",
+      "name": "双界灵兔",
+      "title": "阿萝拉"
+    },
+    {
+      "id": "Azir",
+      "key": "268",
+      "name": "沙漠皇帝",
+      "title": "阿兹尔"
+    },
+    {
+      "id": "Bard",
+      "key": "432",
+      "name": "星界游神",
+      "title": "巴德"
+    },
+    {
+      "id": "Belveth",
+      "key": "200",
+      "name": "虚空女皇",
+      "title": "卑尔维斯"
+    },
+    {
+      "id": "Blitzcrank",
+      "key": "53",
+      "name": "蒸汽机器人",
+      "title": "布里茨"
+    },
+    {
+      "id": "Brand",
+      "key": "63",
+      "name": "复仇焰魂",
+      "title": "布兰德"
+    },
+    {
+      "id": "Braum",
+      "key": "201",
+      "name": "弗雷尔卓德之心",
+      "title": "布隆"
+    },
+    {
+      "id": "Briar",
+      "key": "233",
+      "name": "狂厄蔷薇",
+      "title": "贝蕾亚"
+    },
+    {
+      "id": "Caitlyn",
+      "key": "51",
+      "name": "皮城女警",
+      "title": "凯特琳"
+    },
+    {
+      "id": "Camille",
+      "key": "164",
+      "name": "青钢影",
+      "title": "卡蜜尔"
+    },
+    {
+      "id": "Cassiopeia",
+      "key": "69",
+      "name": "魔蛇之拥",
+      "title": "卡西奥佩娅"
+    },
+    {
+      "id": "Chogath",
+      "key": "31",
+      "name": "虚空恐惧",
+      "title": "科加斯"
+    },
+    {
+      "id": "Corki",
+      "key": "42",
+      "name": "英勇投弹手",
+      "title": "库奇"
+    },
+    {
+      "id": "Darius",
+      "key": "122",
+      "name": "诺克萨斯之手",
+      "title": "德莱厄斯"
+    },
+    {
+      "id": "Diana",
+      "key": "131",
+      "name": "皎月女神",
+      "title": "黛安娜"
+    },
+    {
+      "id": "Draven",
+      "key": "119",
+      "name": "荣耀行刑官",
+      "title": "德莱文"
+    },
+    {
+      "id": "DrMundo",
+      "key": "36",
+      "name": "祖安狂人",
+      "title": "蒙多医生"
+    },
+    {
+      "id": "Ekko",
+      "key": "245",
+      "name": "时间刺客",
+      "title": "艾克"
+    },
+    {
+      "id": "Elise",
+      "key": "60",
+      "name": "蜘蛛女皇",
+      "title": "伊莉丝"
+    },
+    {
+      "id": "Evelynn",
+      "key": "28",
+      "name": "痛苦之拥",
+      "title": "伊芙琳"
+    },
+    {
+      "id": "Ezreal",
+      "key": "81",
+      "name": "探险家",
+      "title": "伊泽瑞尔"
+    },
+    {
+      "id": "Fiddlesticks",
+      "key": "9",
+      "name": "远古恐惧",
+      "title": "费德提克"
+    },
+    {
+      "id": "Fiora",
+      "key": "114",
+      "name": "无双剑姬",
+      "title": "菲奥娜"
+    },
+    {
+      "id": "Fizz",
+      "key": "105",
+      "name": "潮汐海灵",
+      "title": "菲兹"
+    },
+    {
+      "id": "Galio",
+      "key": "3",
+      "name": "正义巨像",
+      "title": "加里奥"
+    },
+    {
+      "id": "Gangplank",
+      "key": "41",
+      "name": "海洋之灾",
+      "title": "普朗克"
+    },
+    {
+      "id": "Garen",
+      "key": "86",
+      "name": "德玛西亚之力",
+      "title": "盖伦"
+    },
+    {
+      "id": "Gnar",
+      "key": "150",
+      "name": "迷失之牙",
+      "title": "纳尔"
+    },
+    {
+      "id": "Gragas",
+      "key": "79",
+      "name": "酒桶",
+      "title": "古拉加斯"
+    },
+    {
+      "id": "Graves",
+      "key": "104",
+      "name": "法外狂徒",
+      "title": "格雷福斯"
+    },
+    {
+      "id": "Gwen",
+      "key": "887",
+      "name": "灵罗娃娃",
+      "title": "格温"
+    },
+    {
+      "id": "Hecarim",
+      "key": "120",
+      "name": "战争之影",
+      "title": "赫卡里姆"
+    },
+    {
+      "id": "Heimerdinger",
+      "key": "74",
+      "name": "大发明家",
+      "title": "黑默丁格"
+    },
+    {
+      "id": "Hwei",
+      "key": "910",
+      "name": "异画师",
+      "title": "彗"
+    },
+    {
+      "id": "Illaoi",
+      "key": "420",
+      "name": "海兽祭司",
+      "title": "俄洛伊"
+    },
+    {
+      "id": "Irelia",
+      "key": "39",
+      "name": "刀锋舞者",
+      "title": "艾瑞莉娅"
+    },
+    {
+      "id": "Ivern",
+      "key": "427",
+      "name": "翠神",
+      "title": "艾翁"
+    },
+    {
+      "id": "Janna",
+      "key": "40",
+      "name": "风暴之怒",
+      "title": "迦娜"
+    },
+    {
+      "id": "JarvanIV",
+      "key": "59",
+      "name": "德玛西亚皇子",
+      "title": "嘉文四世"
+    },
+    {
+      "id": "Jax",
+      "key": "24",
+      "name": "武器大师",
+      "title": "贾克斯"
+    },
+    {
+      "id": "Jayce",
+      "key": "126",
+      "name": "未来守护者",
+      "title": "杰斯"
+    },
+    {
+      "id": "Jhin",
+      "key": "202",
+      "name": "戏命师",
+      "title": "烬"
+    },
+    {
+      "id": "Jinx",
+      "key": "222",
+      "name": "暴走萝莉",
+      "title": "金克丝"
+    },
+    {
+      "id": "Kaisa",
+      "key": "145",
+      "name": "虚空之女",
+      "title": "卡莎"
+    },
+    {
+      "id": "Kalista",
+      "key": "429",
+      "name": "复仇之矛",
+      "title": "卡莉丝塔"
+    },
+    {
+      "id": "Karma",
+      "key": "43",
+      "name": "天启者",
+      "title": "卡尔玛"
+    },
+    {
+      "id": "Karthus",
+      "key": "30",
+      "name": "死亡颂唱者",
+      "title": "卡尔萨斯"
+    },
+    {
+      "id": "Kassadin",
+      "key": "38",
+      "name": "虚空行者",
+      "title": "卡萨丁"
+    },
+    {
+      "id": "Katarina",
+      "key": "55",
+      "name": "不祥之刃",
+      "title": "卡特琳娜"
+    },
+    {
+      "id": "Kayle",
+      "key": "10",
+      "name": "正义天使",
+      "title": "凯尔"
+    },
+    {
+      "id": "Kayn",
+      "key": "141",
+      "name": "影流之镰",
+      "title": "凯隐"
+    },
+    {
+      "id": "Kennen",
+      "key": "85",
+      "name": "狂暴之心",
+      "title": "凯南"
+    },
+    {
+      "id": "Khazix",
+      "key": "121",
+      "name": "虚空掠夺者",
+      "title": "卡兹克"
+    },
+    {
+      "id": "Kindred",
+      "key": "203",
+      "name": "永猎双子",
+      "title": "千珏"
+    },
+    {
+      "id": "Kled",
+      "key": "240",
+      "name": "暴怒骑士",
+      "title": "克烈"
+    },
+    {
+      "id": "KogMaw",
+      "key": "96",
+      "name": "深渊巨口",
+      "title": "克格莫"
+    },
+    {
+      "id": "KSante",
+      "key": "897",
+      "name": "纳祖芒荣耀",
+      "title": "奎桑提"
+    },
+    {
+      "id": "Leblanc",
+      "key": "7",
+      "name": "诡术妖姬",
+      "title": "乐芙兰"
+    },
+    {
+      "id": "LeeSin",
+      "key": "64",
+      "name": "盲僧",
+      "title": "李青"
+    },
+    {
+      "id": "Leona",
+      "key": "89",
+      "name": "曙光女神",
+      "title": "蕾欧娜"
+    },
+    {
+      "id": "Lillia",
+      "key": "876",
+      "name": "含羞蓓蕾",
+      "title": "莉莉娅"
+    },
+    {
+      "id": "Lissandra",
+      "key": "127",
+      "name": "冰霜女巫",
+      "title": "丽桑卓"
+    },
+    {
+      "id": "Locke",
+      "key": "805",
+      "name": "灰烬驱魔人",
+      "title": "洛克"
+    },
+    {
+      "id": "Lucian",
+      "key": "236",
+      "name": "圣枪游侠",
+      "title": "卢锡安"
+    },
+    {
+      "id": "Lulu",
+      "key": "117",
+      "name": "仙灵女巫",
+      "title": "璐璐"
+    },
+    {
+      "id": "Lux",
+      "key": "99",
+      "name": "光辉女郎",
+      "title": "拉克丝"
+    },
+    {
+      "id": "Malphite",
+      "key": "54",
+      "name": "熔岩巨兽",
+      "title": "墨菲特"
+    },
+    {
+      "id": "Malzahar",
+      "key": "90",
+      "name": "虚空先知",
+      "title": "玛尔扎哈"
+    },
+    {
+      "id": "Maokai",
+      "key": "57",
+      "name": "扭曲树精",
+      "title": "茂凯"
+    },
+    {
+      "id": "MasterYi",
+      "key": "11",
+      "name": "无极剑圣",
+      "title": "易"
+    },
+    {
+      "id": "Mel",
+      "key": "800",
+      "name": "流光镜影",
+      "title": "梅尔"
+    },
+    {
+      "id": "Milio",
+      "key": "902",
+      "name": "明烛",
+      "title": "米利欧"
+    },
+    {
+      "id": "MissFortune",
+      "key": "21",
+      "name": "赏金猎人",
+      "title": "厄运小姐"
+    },
+    {
+      "id": "MonkeyKing",
+      "key": "62",
+      "name": "齐天大圣",
+      "title": "孙悟空"
+    },
+    {
+      "id": "Mordekaiser",
+      "key": "82",
+      "name": "铁铠冥魂",
+      "title": "莫德凯撒"
+    },
+    {
+      "id": "Morgana",
+      "key": "25",
+      "name": "堕落天使",
+      "title": "莫甘娜"
+    },
+    {
+      "id": "Naafiri",
+      "key": "950",
+      "name": "百裂冥犬",
+      "title": "纳亚菲利"
+    },
+    {
+      "id": "Nami",
+      "key": "267",
+      "name": "唤潮鲛姬",
+      "title": "娜美"
+    },
+    {
+      "id": "Nasus",
+      "key": "75",
+      "name": "沙漠死神",
+      "title": "内瑟斯"
+    },
+    {
+      "id": "Nautilus",
+      "key": "111",
+      "name": "深海泰坦",
+      "title": "诺提勒斯"
+    },
+    {
+      "id": "Neeko",
+      "key": "518",
+      "name": "万花通灵",
+      "title": "妮蔻"
+    },
+    {
+      "id": "Nidalee",
+      "key": "76",
+      "name": "狂野女猎手",
+      "title": "奈德丽"
+    },
+    {
+      "id": "Nilah",
+      "key": "895",
+      "name": "不羁之悦",
+      "title": "尼菈"
+    },
+    {
+      "id": "Nocturne",
+      "key": "56",
+      "name": "永恒梦魇",
+      "title": "魔腾"
+    },
+    {
+      "id": "Nunu",
+      "key": "20",
+      "name": "雪原双子",
+      "title": "努努和威朗普"
+    },
+    {
+      "id": "Olaf",
+      "key": "2",
+      "name": "狂战士",
+      "title": "奥拉夫"
+    },
+    {
+      "id": "Orianna",
+      "key": "61",
+      "name": "发条魔灵",
+      "title": "奥莉安娜"
+    },
+    {
+      "id": "Ornn",
+      "key": "516",
+      "name": "山隐之焰",
+      "title": "奥恩"
+    },
+    {
+      "id": "Pantheon",
+      "key": "80",
+      "name": "不屈之枪",
+      "title": "潘森"
+    },
+    {
+      "id": "Poppy",
+      "key": "78",
+      "name": "圣锤之毅",
+      "title": "波比"
+    },
+    {
+      "id": "Pyke",
+      "key": "555",
+      "name": "血港鬼影",
+      "title": "派克"
+    },
+    {
+      "id": "Qiyana",
+      "key": "246",
+      "name": "元素女皇",
+      "title": "奇亚娜"
+    },
+    {
+      "id": "Quinn",
+      "key": "133",
+      "name": "德玛西亚之翼",
+      "title": "奎因"
+    },
+    {
+      "id": "Rakan",
+      "key": "497",
+      "name": "幻翎",
+      "title": "洛"
+    },
+    {
+      "id": "Rammus",
+      "key": "33",
+      "name": "披甲龙龟",
+      "title": "拉莫斯"
+    },
+    {
+      "id": "RekSai",
+      "key": "421",
+      "name": "虚空遁地兽",
+      "title": "雷克塞"
+    },
+    {
+      "id": "Rell",
+      "key": "526",
+      "name": "镕铁少女",
+      "title": "芮尔"
+    },
+    {
+      "id": "Renata",
+      "key": "888",
+      "name": "炼金男爵",
+      "title": "烈娜塔 · 戈拉斯克"
+    },
+    {
+      "id": "Renekton",
+      "key": "58",
+      "name": "荒漠屠夫",
+      "title": "雷克顿"
+    },
+    {
+      "id": "Rengar",
+      "key": "107",
+      "name": "傲之追猎者",
+      "title": "雷恩加尔"
+    },
+    {
+      "id": "Riven",
+      "key": "92",
+      "name": "放逐之刃",
+      "title": "锐雯"
+    },
+    {
+      "id": "Rumble",
+      "key": "68",
+      "name": "机械公敌",
+      "title": "兰博"
+    },
+    {
+      "id": "Ryze",
+      "key": "13",
+      "name": "符文法师",
+      "title": "瑞兹"
+    },
+    {
+      "id": "Samira",
+      "key": "360",
+      "name": "沙漠玫瑰",
+      "title": "莎弥拉"
+    },
+    {
+      "id": "Sejuani",
+      "key": "113",
+      "name": "北地之怒",
+      "title": "瑟庄妮"
+    },
+    {
+      "id": "Senna",
+      "key": "235",
+      "name": "涤魂圣枪",
+      "title": "赛娜"
+    },
+    {
+      "id": "Seraphine",
+      "key": "147",
+      "name": "星籁歌姬",
+      "title": "萨勒芬妮"
+    },
+    {
+      "id": "Sett",
+      "key": "875",
+      "name": "腕豪",
+      "title": "瑟提"
+    },
+    {
+      "id": "Shaco",
+      "key": "35",
+      "name": "恶魔小丑",
+      "title": "萨科"
+    },
+    {
+      "id": "Shen",
+      "key": "98",
+      "name": "暮光之眼",
+      "title": "慎"
+    },
+    {
+      "id": "Shyvana",
+      "key": "102",
+      "name": "龙血武姬",
+      "title": "希瓦娜"
+    },
+    {
+      "id": "Singed",
+      "key": "27",
+      "name": "炼金术士",
+      "title": "辛吉德"
+    },
+    {
+      "id": "Sion",
+      "key": "14",
+      "name": "亡灵战神",
+      "title": "赛恩"
+    },
+    {
+      "id": "Sivir",
+      "key": "15",
+      "name": "战争女神",
+      "title": "希维尔"
+    },
+    {
+      "id": "Skarner",
+      "key": "72",
+      "name": "上古领主",
+      "title": "斯卡纳"
+    },
+    {
+      "id": "Smolder",
+      "key": "901",
+      "name": "炽炎雏龙",
+      "title": "斯莫德"
+    },
+    {
+      "id": "Sona",
+      "key": "37",
+      "name": "琴瑟仙女",
+      "title": "娑娜"
+    },
+    {
+      "id": "Soraka",
+      "key": "16",
+      "name": "众星之子",
+      "title": "索拉卡"
+    },
+    {
+      "id": "Swain",
+      "key": "50",
+      "name": "诺克萨斯统领",
+      "title": "斯维因"
+    },
+    {
+      "id": "Sylas",
+      "key": "517",
+      "name": "解脱者",
+      "title": "塞拉斯"
+    },
+    {
+      "id": "Syndra",
+      "key": "134",
+      "name": "暗黑元首",
+      "title": "辛德拉"
+    },
+    {
+      "id": "TahmKench",
+      "key": "223",
+      "name": "河流之王",
+      "title": "塔姆"
+    },
+    {
+      "id": "Taliyah",
+      "key": "163",
+      "name": "岩雀",
+      "title": "塔莉垭"
+    },
+    {
+      "id": "Talon",
+      "key": "91",
+      "name": "刀锋之影",
+      "title": "泰隆"
+    },
+    {
+      "id": "Taric",
+      "key": "44",
+      "name": "瓦洛兰之盾",
+      "title": "塔里克"
+    },
+    {
+      "id": "Teemo",
+      "key": "17",
+      "name": "迅捷斥候",
+      "title": "提莫"
+    },
+    {
+      "id": "Thresh",
+      "key": "412",
+      "name": "魂锁典狱长",
+      "title": "锤石"
+    },
+    {
+      "id": "Tristana",
+      "key": "18",
+      "name": "麦林炮手",
+      "title": "崔丝塔娜"
+    },
+    {
+      "id": "Trundle",
+      "key": "48",
+      "name": "巨魔之王",
+      "title": "特朗德尔"
+    },
+    {
+      "id": "Tryndamere",
+      "key": "23",
+      "name": "蛮族之王",
+      "title": "泰达米尔"
+    },
+    {
+      "id": "TwistedFate",
+      "key": "4",
+      "name": "卡牌大师",
+      "title": "崔斯特"
+    },
+    {
+      "id": "Twitch",
+      "key": "29",
+      "name": "瘟疫之源",
+      "title": "图奇"
+    },
+    {
+      "id": "Udyr",
+      "key": "77",
+      "name": "兽灵行者",
+      "title": "乌迪尔"
+    },
+    {
+      "id": "Urgot",
+      "key": "6",
+      "name": "无畏战车",
+      "title": "厄加特"
+    },
+    {
+      "id": "Varus",
+      "key": "110",
+      "name": "惩戒之箭",
+      "title": "韦鲁斯"
+    },
+    {
+      "id": "Vayne",
+      "key": "67",
+      "name": "暗夜猎手",
+      "title": "薇恩"
+    },
+    {
+      "id": "Veigar",
+      "key": "45",
+      "name": "邪恶小法师",
+      "title": "维迦"
+    },
+    {
+      "id": "Velkoz",
+      "key": "161",
+      "name": "虚空之眼",
+      "title": "维克兹"
+    },
+    {
+      "id": "Vex",
+      "key": "711",
+      "name": "愁云使者",
+      "title": "薇古丝"
+    },
+    {
+      "id": "Vi",
+      "key": "254",
+      "name": "皮城执法官",
+      "title": "蔚"
+    },
+    {
+      "id": "Viego",
+      "key": "234",
+      "name": "破败之王",
+      "title": "佛耶戈"
+    },
+    {
+      "id": "Viktor",
+      "key": "112",
+      "name": "奥术先驱",
+      "title": "维克托"
+    },
+    {
+      "id": "Vladimir",
+      "key": "8",
+      "name": "猩红收割者",
+      "title": "弗拉基米尔"
+    },
+    {
+      "id": "Volibear",
+      "key": "106",
+      "name": "不灭狂雷",
+      "title": "沃利贝尔"
+    },
+    {
+      "id": "Warwick",
+      "key": "19",
+      "name": "祖安怒兽",
+      "title": "沃里克"
+    },
+    {
+      "id": "Xayah",
+      "key": "498",
+      "name": "逆羽",
+      "title": "霞"
+    },
+    {
+      "id": "Xerath",
+      "key": "101",
+      "name": "远古巫灵",
+      "title": "泽拉斯"
+    },
+    {
+      "id": "XinZhao",
+      "key": "5",
+      "name": "德邦总管",
+      "title": "赵信"
+    },
+    {
+      "id": "Yasuo",
+      "key": "157",
+      "name": "疾风剑豪",
+      "title": "亚索"
+    },
+    {
+      "id": "Yone",
+      "key": "777",
+      "name": "封魔剑魂",
+      "title": "永恩"
+    },
+    {
+      "id": "Yorick",
+      "key": "83",
+      "name": "牧魂人",
+      "title": "约里克"
+    },
+    {
+      "id": "Yunara",
+      "key": "804",
+      "name": "不破之誓",
+      "title": "芸阿娜"
+    },
+    {
+      "id": "Yuumi",
+      "key": "350",
+      "name": "魔法猫咪",
+      "title": "悠米"
+    },
+    {
+      "id": "Zaahen",
+      "key": "904",
+      "name": "不落魔锋",
+      "title": "亚恒"
+    },
+    {
+      "id": "Zac",
+      "key": "154",
+      "name": "生化魔人",
+      "title": "扎克"
+    },
+    {
+      "id": "Zed",
+      "key": "238",
+      "name": "影流之主",
+      "title": "劫"
+    },
+    {
+      "id": "Zeri",
+      "key": "221",
+      "name": "祖安花火",
+      "title": "泽丽"
+    },
+    {
+      "id": "Ziggs",
+      "key": "115",
+      "name": "爆破鬼才",
+      "title": "吉格斯"
+    },
+    {
+      "id": "Zilean",
+      "key": "26",
+      "name": "时光守护者",
+      "title": "基兰"
+    },
+    {
+      "id": "Zoe",
+      "key": "142",
+      "name": "暮光星灵",
+      "title": "佐伊"
+    },
+    {
+      "id": "Zyra",
+      "key": "143",
+      "name": "荆棘之兴",
+      "title": "婕拉"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "description": "Manual transcription of user screenshots and four browser observations. null means the field is hidden; do not invent it. Hero IDs refer to the match roster and may require preceding clear frames.",
+  "heroes": ["Ambessa","Chogath","Orianna","Yunara","Seraphine","Gnar","Maokai","Syndra","Tristana","Lulu"],
+  "names": ["Xiaoxu","JunJia","HongQ","GALA","Vampire","TheShy","Wei","Rookie","JiaQi","Meiko"],
+  "cases": {
+    "bpfull": {"layout":"bp","clock":null},
+    "scene": {"layout":"scene","clock":90},
+    "newscore": {"layout":"scoreboard","clock":404,"heroes":["Jayce","Naafiri","Ryze","Jhin","Nautilus","Renekton","Trundle","Viktor","Jinx","Thresh"],"levels":[6,6,7,6,4,7,6,7,5,4],"kda":["0/2/0","0/1/0","0/0/0","0/0/0","0/0/0","1/0/1","2/0/0","0/0/0","0/0/0","0/0/0"],"dead":[]},
+    "scoreboard": {"layout":"scoreboard","clock":844,"levels":[11,10,11,8,8,12,9,11,9,null],"kda":["0/0/0","1/1/1","1/0/0","0/0/1","0/0/1","0/0/0","0/1/0","1/1/0","0/0/0","0/0/0"],"dead":[["left-jungle",16]]},
+    "scoreboard2": {"layout":"scoreboard","clock":837,"levels":[11,10,11,8,8,12,9,11,9,7],"kda":["0/0/0","1/1/1","1/0/0","0/0/1","0/0/1","0/0/0","0/1/0","1/1/0","0/0/0","0/0/0"],"dead":[["left-jungle",23]]},
+    "compact": {"layout":"compact","clock":1987,"levels":[13,14,15,15,19,20,15,17,16,14],"dead":[["left-adc",46]],"victims":["Yunara"]},
+    "compact2": {"layout":"compact","clock":1355,"levels":[10,12,14,13,15,15,12,14,12,10],"dead":[]},
+    "observed1": {"layout":"scoreboard","clock":560,"levels":[8,8,8,6,6,8,7,8,null,6],"kda":["0/0/0","1/0/0","0/0/0","0/0/1","0/0/1","0/0/0","0/1/0","0/0/0","0/0/0","0/0/0"],"dead":[]},
+    "observed2": {"layout":"scoreboard","clock":733,"levels":[10,9,10,7,7,null,8,10,8,7],"kda":["0/0/0","1/0/1","1/0/0","0/0/1","0/0/1","0/0/0","0/1/0","0/1/0","0/0/0","0/0/0"],"dead":[]},
+    "observed3": {"layout":"scoreboard","clock":1166,"levels":[14,12,13,11,9,14,12,13,11,9],"kda":["1/0/0","1/1/2","1/1/0","0/0/1","0/0/1","0/1/1","0/1/1","2/1/0","0/0/0","0/0/0"],"dead":[["right-top",15]]},
+    "observed4": {"layout":"scoreboard","clock":1467,"levels":[16,13,14,12,11,16,13,14,13,11],"kda":["1/0/0","1/2/2","1/1/0","0/0/1","0/1/1","0/1/2","0/1/2","3/1/1","1/0/1","0/0/2"],"dead":[]}
+  }
+}
